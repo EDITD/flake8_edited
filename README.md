@@ -1,10 +1,10 @@
-# flake8_edited
+# flake8-edited
 EDITED rules for linting python
 
 ## Usage
 Just add it to your requirements, ideally with a flexible version, e.g.:
 ```
-edited_flake8>=0.0.1,<0.1
+edited-flake8>=0.0.1,<0.1
 ```
 
 ## Development

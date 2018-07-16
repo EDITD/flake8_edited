@@ -33,7 +33,7 @@ if __name__ == "__main__":
         sys.exit(0)
 
     setuptools.setup(
-        name="flake8_edited",
+        name="flake8-edited",
         description="Edited linter for Python, based on flake8",
         version=get_version(),
         author="EDITED devs",
