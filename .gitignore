@@ -1,4 +1,4 @@
 *.py[cod]
 *.egg
-*.egg-info
-.tox
+*.egg-info/
+.tox/
