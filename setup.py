@@ -42,4 +42,9 @@ if __name__ == "__main__":
         include_package_data=True,
         url="https://github.com/EDITD/flake8_edited",
         install_requires=REQUIREMENTS,
+        entry_points={
+            "console_scripts": [
+                "elinted = src.main:main"
+            ],
+        },
     )
