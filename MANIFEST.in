@@ -1,2 +1,2 @@
 include CHANGELOG.md
-recursive-include config *.ini
+recursive-include elinted/config *.ini

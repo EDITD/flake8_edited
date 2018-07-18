@@ -44,7 +44,7 @@ if __name__ == "__main__":
         install_requires=REQUIREMENTS,
         entry_points={
             "console_scripts": [
-                "elinted = src.main:main"
+                "elinted = elinted.main:main"
             ],
         },
     )
